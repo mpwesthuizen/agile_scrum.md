@@ -4,6 +4,7 @@
 Scrum is a framework of Agile workflow. Scrum is simple. The below scrum artifacts complete the framework and define scrum.
 
 Artifacts in order:
+
 0) sprint planning
 1) sprint backlog
 2) daily scrum - AKA daily standup
@@ -38,7 +39,7 @@ These are measures/standards used to ensure quality development. This is usually
  I will be doing this by utilising my knowledge of technical debt and implementing Test Driven Development via the Unittest library.
  
 ##### 3) Non functional requirements:
-_"Non-Functional Requirements
+_" Non-Functional Requirements
 These are the standard characteristics or attributes of the Product that might not add direct business value but without which your Product can’t move. These quality assurance attributes of the Product can be considered under the quality component too.
 Example:_
 - _Availability_
@@ -79,7 +80,7 @@ Agile is a set of values that define how to deal with the workflow.
 3) Customer Collaboration over Contract Negotiations
 4) Responding to Change Over Following a Plan
 
-references:
+References:
 
 - https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto
 
