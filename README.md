@@ -1,4 +1,4 @@
-# Agile & Scrum: Artifacts, Ceremonies and Roles README.md
+# Agile & Scrum: Artifacts, Ceremonies and Roles README
 
 ## Scrum
 Scrum is a framework of Agile workflow. Scrum is simple. The below scrum artifacts complete the framework and define scrum.
