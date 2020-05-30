@@ -23,7 +23,7 @@ Including:
 #### Definition of Done
 This is when all the acceptance criteria is met that makes a product increment releasable.
 
-In product development there are 3 factors to the definition of done
+In product development there are 3 factors to the definition of done:
 
 ##### 1) Business/functional requirements via EPICS/User Stories:
 These are product functionality that is defined in a specific perspective. They will follow the below format;
@@ -32,7 +32,7 @@ As a <User|Actor>
 I want <What|Act>
 So that <Why|Impact>
 
-Simply put the difference between EPIC's and User Stories is that EPIC's are higher level that have more a a wider scope of the product. Whereas the User Stories have a narrow scope relative to the product that typically covers singal functionality/process. Both of these will frquently feature in my Trello boards.
+Simply put the difference between EPIC's and User Stories is that EPIC's are higher level that have a wider scope of the product. Whereas the User Stories have a narrow scope relative to the product that typically covers  a single functionality/process. Both of these will frequently feature in my Trello boards.
 
 ##### 2) Quality requirements: 
 These are measures/standards used to ensure quality development. This is usually owned by the development team.
